@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently studying Final year in my Bachelor's Degree.<br>Much interested in Front end Development.<br>Having some basic idea in Machine Learning and Deep Learning<br>Beginner in Python and Java Programming language. 
+👋 Hello, I'm Vanmathi!
+
+🌟 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Front end Development.<br>Having some basic idea in Machine Learning and Deep Learning<br>Beginner in Python and Java Programming language. 
 
 
 ## 🌐 Socials:
