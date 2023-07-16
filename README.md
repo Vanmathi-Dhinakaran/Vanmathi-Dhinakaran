@@ -1,7 +1,9 @@
 # 💫 About Me:
 👋 Hello, I'm Vanmathi!
 
-🌟 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Front end Development.<br>Having some basic idea in Machine Learning and Deep Learning<br>Beginner in Python and Java Programming language. 
+🌟 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Front end Development.
+<br><br>📚 Having some basic idea in Machine Learning and Deep Learning.
+<br><br>👨‍💻 Java enthusiast, crafting elegant code and turning ideas into reality! 🚀✨ Let's collaborate and build something amazing together! 💪🔧  
 
 
 ## 🌐 Socials:
